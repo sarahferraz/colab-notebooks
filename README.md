@@ -6,7 +6,7 @@ Aqui estão projetos, estudos e experimentos de análise de dados, machine learn
 ## Estrutura do repositório
 
 - `notebooks/` → Contém todos os arquivos `.ipynb`.
-- `requirements.txt` → Lista de bibliotecas usadas nos notebooks (opcional).
+- `requirements.txt` → Lista de bibliotecas usadas nos notebooks.
 
 ## Como abrir
 
